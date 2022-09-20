@@ -1,4 +1,4 @@
-var player1 = prompt("👊WELCOME TO CONNECT FOUR👊Enter Your Name, you will be BLUE💙");
+var player1 = prompt("👊WELCOME TO CONNECT FOUR👊 Enter Your Name, you will be BLUE💙");
 var player1Color = 'rgb(86, 151, 255)';
 
 var player2 = prompt("Enter Your Name, you will be RED❤️");
